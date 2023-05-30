@@ -18,17 +18,17 @@ const Navbar: FC<NavbarProps> = ({setGetID}) => {
       <nav className="nav flex flex-col justify-between h-full gap-10 ">
         <button
           onClick={() => handleClick('INTRODUCTION')}
-          className={`nav-link p-1 bg-slate-500 rounded-md text-center hover:bg-green-600 ${
-            isActive === 'INTRODUCTION' ? 'bg-green-600' : ''
-          } : ''}`}
+          className={`nav-link p-1  rounded-md text-center hover:bg-green-600 ${
+            isActive === 'INTRODUCTION' ? 'bg-green-600' : 'bg-slate-500'
+          }`}
           id="INTRODUCTION"
         >
           INTRODUCTION
         </button>
         <button
           onClick={() => handleClick('CAREER')}
-          className={`nav-link p-1 bg-slate-500 rounded-md text-center hover:bg-green-600 ${
-            isActive === 'CAREER' ? 'bg-green-600' : ''
+          className={`nav-link p-1  rounded-md text-center hover:bg-green-600 ${
+            isActive === 'CAREER' ? 'bg-green-600' : 'bg-slate-500'
           }`}
           id="CAREER"
         >
@@ -36,8 +36,8 @@ const Navbar: FC<NavbarProps> = ({setGetID}) => {
         </button>
         <button
           onClick={() => handleClick('PROJECT')}
-          className={`nav-link p-1 bg-slate-500 rounded-md text-center hover:bg-green-600 ${
-            isActive === 'PROJECT' ? 'bg-green-600' : ''
+          className={`nav-link p-1  rounded-md text-center hover:bg-green-600 ${
+            isActive === 'PROJECT' ? 'bg-green-600' : 'bg-slate-500'
           }`}
           id="PROJECT"
         >
@@ -45,8 +45,8 @@ const Navbar: FC<NavbarProps> = ({setGetID}) => {
         </button>
         <button
           onClick={() => handleClick('SKILL')}
-          className={`nav-link p-1 bg-slate-500 rounded-md text-center hover:bg-green-600 ${
-            isActive === 'SKILL' ? 'bg-green-600' : ''
+          className={`nav-link p-1  rounded-md text-center hover:bg-green-600 ${
+            isActive === 'SKILL' ? 'bg-green-600' : 'bg-slate-500'
           }`}
           id="SKILL"
         >
@@ -54,8 +54,8 @@ const Navbar: FC<NavbarProps> = ({setGetID}) => {
         </button>
         <button
           onClick={() => handleClick('OVERVIEW')}
-          className={`nav-link p-1 bg-slate-500 rounded-md text-center hover:bg-green-600 ${
-            isActive === 'OVERVIEW' ? 'bg-green-600' : ''
+          className={`nav-link p-1  rounded-md text-center hover:bg-green-600 ${
+            isActive === 'OVERVIEW' ? 'bg-green-600' : 'bg-slate-500'
           }`}
           id="OVERVIEW"
         >
@@ -63,8 +63,8 @@ const Navbar: FC<NavbarProps> = ({setGetID}) => {
         </button>
         <button
           onClick={() => handleClick('ACADEMIC')}
-          className={`nav-link p-1 bg-slate-500 rounded-md text-center hover:bg-green-600 ${
-            isActive === 'ACADEMIC' ? 'bg-green-600' : ''
+          className={`nav-link p-1  rounded-md text-center hover:bg-green-600 ${
+            isActive === 'ACADEMIC' ? 'bg-green-600' : 'bg-slate-500'
           }`}
           id="ACADEMIC"
         >
@@ -72,8 +72,8 @@ const Navbar: FC<NavbarProps> = ({setGetID}) => {
         </button>
         <button
           onClick={() => handleClick('WORK')}
-          className={`nav-link p-1 bg-slate-500 rounded-md text-center hover:bg-green-600 ${
-            isActive === 'WORK' ? 'bg-green-600' : ''
+          className={`nav-link p-1  rounded-md text-center hover:bg-green-600 ${
+            isActive === 'WORK' ? 'bg-green-600' : 'bg-slate-500'
           }`}
           id="WORK"
         >
@@ -81,8 +81,8 @@ const Navbar: FC<NavbarProps> = ({setGetID}) => {
         </button>
         <button
           onClick={() => handleClick('CERTIFICATE')}
-          className={`nav-link p-1 bg-slate-500 rounded-md text-center hover:bg-green-600 ${
-            isActive === 'CERTIFICATE' ? 'bg-green-600' : ''
+          className={`nav-link p-1  rounded-md text-center hover:bg-green-600 ${
+            isActive === 'CERTIFICATE' ? 'bg-green-600' : 'bg-slate-500'
           }`}
           id="CERTIFICATE"
         >
@@ -90,8 +90,8 @@ const Navbar: FC<NavbarProps> = ({setGetID}) => {
         </button>
         <button
           onClick={() => handleClick('TECH')}
-          className={`nav-link p-1 bg-slate-500 rounded-md text-center hover:bg-green-600 ${
-            isActive === 'TECH' ? 'bg-green-600' : ''
+          className={`nav-link p-1  rounded-md text-center hover:bg-green-600 ${
+            isActive === 'TECH' ? 'bg-green-600' : 'bg-slate-500'
           }`}
           id="TECH"
         >

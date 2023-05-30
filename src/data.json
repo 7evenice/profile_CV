@@ -75,7 +75,7 @@
       "content": "https://github.com/7evenice/todo-app "
     },
     {
-      "title": "Using react router dom, firebase, redux, json",
+      "title": "Using react router dom, firebase, redux",
       "content": "https://github.com/7evenice/FE_CRUD_USER "
     },
     {
@@ -125,60 +125,60 @@
   ],
   "TECH": [
     {
-      "title": "",
-      "content": "-Strong Experience in: JavaScript (ReactJS, NextJS, NodeJS), TypeScript , JSON , API services, Sass, Scss, Bootstrap "
+      "content": "",
+      "title": "-Strong Experience in: JavaScript (ReactJS, NextJS, NodeJS), TypeScript , JSON , API services, Sass, Scss, Bootstrap "
     },
     {
-      "title": "",
-      "content": "-Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model"
+      "content": "",
+      "title": "-Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model"
     },
     {
-      "title": "",
-      "content": "-Proficiency in HTML, CSS, JavaScript"
+      "content": "",
+      "title": "-Proficiency in HTML, CSS, JavaScript"
     },
     {
-      "title": "",
-      "content": "-Thorough under standing of ReactJS and it score principles"
+      "content": "",
+      "title": "-Thorough under standing of ReactJS and it score principles"
     },
     {
-      "title": "",
-      "content": "-Experience with popular ReactJS workflows (such as Redux Saga)"
+      "content": "",
+      "title": "-Experience with popular ReactJS workflows (such as Redux Saga)"
     },
     {
-      "title": "",
-      "content": "-Experience with data structure libraries"
+      "content": "",
+      "title": "-Experience with data structure libraries"
     },
     {
-      "title": "",
-      "content": "-Familiarity with RESTful APIs"
+      "content": "",
+      "title": "-Familiarity with RESTful APIs"
     },
     {
-      "title": "",
-      "content": "-NodeJS (Express)"
+      "content": "",
+      "title": "-NodeJS (Express)"
     },
     {
-      "title": "",
-      "content": "-RESTful API."
+      "content": "",
+      "title": "-RESTful API."
     },
     {
-      "title": "",
-      "content": "-MySQL."
+      "content": "",
+      "title": "-MySQL."
     },
     {
-      "title": "",
-      "content": "-TypeScript."
+      "content": "",
+      "title": "-TypeScript."
     },
     {
-      "title": "",
-      "content": "-MongoDB."
+      "content": "",
+      "title": "-MongoDB."
     },
     {
-      "title": "",
-      "content": "-Tailwinds"
+      "content": "",
+      "title": "-Tailwinds"
     },
     {
-      "title": "",
-      "content": "-Bootstrap, Git"
+      "content": "",
+      "title": "-Bootstrap, Git"
     }
   ]
 }
