@@ -31,6 +31,40 @@
       "content": "Gain industry experience, improve technical skills, work on real-time projects, build a strong professional network and advance to higher positions, teamwork"
     }
   ],
+  "SKILL": [
+    {
+      "title": "HTML, CSS, JavaScript",
+      "content": ""
+    },
+    {
+      "title": "JavaScript",
+      "content": ""
+    },
+    {
+      "title": "Java",
+      "content": ""
+    },
+    {
+      "title": "Tailwinds",
+      "content": ""
+    },
+    {
+      "title": "MySQL",
+      "content": ""
+    },
+    {
+      "title": "Boostrap",
+      "content": ""
+    },
+    {
+      "title": "TypeScript",
+      "content": ""
+    },
+    {
+      "title": "MongoDB.",
+      "content": ""
+    }
+  ],
   "PROJECT": [
     {
       "title": "React Component - Router",
@@ -55,7 +89,7 @@
   ],
   "OVERVIEW": [
     {
-      "title": "OverView About Me",
+      "title": "Overview About",
       "content": "Over 6 months of experience in programming React with projects, good communication and quick learning skills. Have good English skills. Strengths: Front-end web application development (React), Back-End (NodeJS). Ability to learn and apply new technology quickly .Current working location: Da Nang, Viet Nam "
     }
   ],
@@ -73,10 +107,6 @@
   ],
   "CERTIFICATE": [
     {
-      "title": "Academic English: Writing ",
-      "content": "https://www.coursera.org/account/accomplishments/specialization/certificate/6MXNC9ZJXJAK "
-    },
-    {
       "title": "Create and Lead an Ethical Data-Driven Organization ",
       "content": "https://www.coursera.org/account/accomplishments/certificate/AD3CSGZ3K2S9 "
     },
@@ -93,14 +123,18 @@
       "content": "https://www.coursera.org/account/accomplishments/certificate/KTB3VBGQNSHS "
     }
   ],
-  "TECHNOLOGY": [
+  "TECH": [
     {
       "title": "",
-      "content": "-Proficiency in HTML, CSS, JavaScript"
+      "content": "-Strong Experience in: JavaScript (ReactJS, NextJS, NodeJS), TypeScript , JSON , API services, Sass, Scss, Bootstrap "
     },
     {
       "title": "",
       "content": "-Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model"
+    },
+    {
+      "title": "",
+      "content": "-Proficiency in HTML, CSS, JavaScript"
     },
     {
       "title": "",
@@ -137,10 +171,6 @@
     {
       "title": "",
       "content": "-MongoDB."
-    },
-    {
-      "title": "",
-      "content": "-Strong Experience in: JavaScript (ReactJS, NextJS, NodeJS), TypeScript , JSON , API services, Sass, Scss, Bootstrap "
     },
     {
       "title": "",

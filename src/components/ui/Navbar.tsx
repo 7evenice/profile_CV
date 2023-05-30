@@ -1,38 +1,100 @@
 // @flow
-import { FC } from 'react';
+import { FC, useState } from 'react';
 
 interface NavbarProps {
+  setGetID: (id: string) => void;
 }
 
-const Navbar: FC<NavbarProps> = ({}) => {
+const Navbar: FC<NavbarProps> = ({setGetID}) => {
+  const [isActive, setIsActive] = useState('')
+  const handleClick = (id: string) => {
+    setGetID(id);
+    setIsActive(id);
+    // console.log(id);
+  };
+
   return (
-    <div className=''>
+    <div className="">
       <nav className="nav flex flex-col justify-between h-full gap-10 ">
-        <button className="nav-link p-1 bg-slate-500 rounded-md text-center" >
+        <button
+          onClick={() => handleClick('INTRODUCTION')}
+          className={`nav-link p-1 bg-slate-500 rounded-md text-center hover:bg-green-600 ${
+            isActive === 'INTRODUCTION' ? 'bg-green-600' : ''
+          } : ''}`}
+          id="INTRODUCTION"
+        >
           INTRODUCTION
         </button>
-        <button className="nav-link p-1 bg-slate-500 rounded-md text-center" >
+        <button
+          onClick={() => handleClick('CAREER')}
+          className={`nav-link p-1 bg-slate-500 rounded-md text-center hover:bg-green-600 ${
+            isActive === 'CAREER' ? 'bg-green-600' : ''
+          }`}
+          id="CAREER"
+        >
           CAREER GOALS
         </button>
-        <button className="nav-link p-1 bg-slate-500 rounded-md text-center " >
+        <button
+          onClick={() => handleClick('PROJECT')}
+          className={`nav-link p-1 bg-slate-500 rounded-md text-center hover:bg-green-600 ${
+            isActive === 'PROJECT' ? 'bg-green-600' : ''
+          }`}
+          id="PROJECT"
+        >
           PROJECT
         </button>
-        <button className="nav-link p-1 bg-slate-500 rounded-md text-center " >
+        <button
+          onClick={() => handleClick('SKILL')}
+          className={`nav-link p-1 bg-slate-500 rounded-md text-center hover:bg-green-600 ${
+            isActive === 'SKILL' ? 'bg-green-600' : ''
+          }`}
+          id="SKILL"
+        >
           SKILL
         </button>
-        <button className="nav-link p-1 bg-slate-500 rounded-md text-center " >
+        <button
+          onClick={() => handleClick('OVERVIEW')}
+          className={`nav-link p-1 bg-slate-500 rounded-md text-center hover:bg-green-600 ${
+            isActive === 'OVERVIEW' ? 'bg-green-600' : ''
+          }`}
+          id="OVERVIEW"
+        >
           OVERVIEW
         </button>
-        <button className="nav-link p-1 bg-slate-500 rounded-md text-center " >
+        <button
+          onClick={() => handleClick('ACADEMIC')}
+          className={`nav-link p-1 bg-slate-500 rounded-md text-center hover:bg-green-600 ${
+            isActive === 'ACADEMIC' ? 'bg-green-600' : ''
+          }`}
+          id="ACADEMIC"
+        >
           ACADEMIC
         </button>
-        <button className="nav-link p-1 bg-slate-500 rounded-md text-center " >
+        <button
+          onClick={() => handleClick('WORK')}
+          className={`nav-link p-1 bg-slate-500 rounded-md text-center hover:bg-green-600 ${
+            isActive === 'WORK' ? 'bg-green-600' : ''
+          }`}
+          id="WORK"
+        >
           WORK EXPERIENCE
         </button>
-        <button className="nav-link p-1 bg-slate-500 rounded-md text-center " >
+        <button
+          onClick={() => handleClick('CERTIFICATE')}
+          className={`nav-link p-1 bg-slate-500 rounded-md text-center hover:bg-green-600 ${
+            isActive === 'CERTIFICATE' ? 'bg-green-600' : ''
+          }`}
+          id="CERTIFICATE"
+        >
           CERTIFICATE
         </button>
-        <button className="nav-link p-1 bg-slate-500 rounded-md text-center " >
+        <button
+          onClick={() => handleClick('TECH')}
+          className={`nav-link p-1 bg-slate-500 rounded-md text-center hover:bg-green-600 ${
+            isActive === 'TECH' ? 'bg-green-600' : ''
+          }`}
+          id="TECH"
+        >
           TECH-FRAMEWORK
         </button>
       </nav>
