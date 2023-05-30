@@ -1,0 +1,184 @@
+{
+  "INTRODUCTION": [
+    {
+      "title": "Date of Birth",
+      "content": "08-09-2001"
+    },
+    {
+      "title": "Gender",
+      "content": "Male"
+    },
+    {
+      "title": "Phone",
+      "content": "0708097890"
+    },
+    {
+      "title": "Email",
+      "content": "vermas8900@gmail.com"
+    },
+    {
+      "title": "Location",
+      "content": "Duy Xuyên - Quảng Nam"
+    },
+    {
+      "title": "Facebook",
+      "content": "https://www.facebook.com/7evenice"
+    }
+  ],
+  "CAREER": [
+    {
+      "title": "Goals",
+      "content": "Gain industry experience, improve technical skills, work on real-time projects, build a strong professional network and advance to higher positions, teamwork"
+    }
+  ],
+  "SKILL": [
+    {
+      "title": "HTML, CSS, JavaScript",
+      "content": ""
+    },
+    {
+      "title": "JavaScript",
+      "content": ""
+    },
+    {
+      "title": "Java",
+      "content": ""
+    },
+    {
+      "title": "Tailwinds",
+      "content": ""
+    },
+    {
+      "title": "MySQL",
+      "content": ""
+    },
+    {
+      "title": "Boostrap",
+      "content": ""
+    },
+    {
+      "title": "TypeScript",
+      "content": ""
+    },
+    {
+      "title": "MongoDB.",
+      "content": ""
+    }
+  ],
+  "PROJECT": [
+    {
+      "title": "React Component - Router",
+      "content": "https://github.com/7evenice/demo-router "
+    },
+    {
+      "title": "ReactJS, NodeJS, Express, Call API - TODOLIST",
+      "content": "https://github.com/7evenice/todo-app "
+    },
+    {
+      "title": "Using react router dom, firebase, redux",
+      "content": "https://github.com/7evenice/FE_CRUD_USER "
+    },
+    {
+      "title": "Design and developer the FE using React, States, Firebase, Router",
+      "content": "https://github.com/7evenice/Store_Selling  "
+    },
+    {
+      "title": "Using React, Tailwind, Router, Redux, Component, Firebase",
+      "content": "https://github.com/7evenice/React_FireBase_Tailwind "
+    }
+  ],
+  "OVERVIEW": [
+    {
+      "title": "Overview About",
+      "content": "Over 6 months of experience in programming React with projects, good communication and quick learning skills. Have good English skills. Strengths: Front-end web application development (React), Back-End (NodeJS). Ability to learn and apply new technology quickly .Current working location: Da Nang, Viet Nam "
+    }
+  ],
+  "ACADEMIC": [
+    {
+      "title": "My School ",
+      "content": "FPT University. Software Engineers/Nodejs. GPA 7.7"
+    }
+  ],
+  "WORK": [
+    {
+      "title": "FPT SOFTWARE ",
+      "content": "-Outsourcing projects, programming and developing web modules using React and related technologies. -Developing FE for customers, knowlege using React Hook, Redux, Javascript, Typescript, and React Hook Form. -Working effectively with my team, backend team, and customers, with good communication skills in English."
+    }
+  ],
+  "CERTIFICATE": [
+    {
+      "title": "Create and Lead an Ethical Data-Driven Organization ",
+      "content": "https://www.coursera.org/account/accomplishments/certificate/AD3CSGZ3K2S9 "
+    },
+    {
+      "title": "Communicate Effectively about Ethical Challenges in Data-Driven Technologies ",
+      "content": "https://www.coursera.org/account/accomplishments/certificate/HWNBNPTNYBBX "
+    },
+    {
+      "title": "Detect and Mitigate Ethical Risks",
+      "content": "https://www.coursera.org/account/accomplishments/certificate/4FJLSE85CMAS "
+    },
+    {
+      "title": "Promote the Ethical Use of Data-Driven Technologies ",
+      "content": "https://www.coursera.org/account/accomplishments/certificate/KTB3VBGQNSHS "
+    }
+  ],
+  "TECH": [
+    {
+      "content": "",
+      "title": "-Strong Experience in: JavaScript (ReactJS, NextJS, NodeJS), TypeScript , JSON , API services, Sass, Scss, Bootstrap "
+    },
+    {
+      "content": "",
+      "title": "-Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model"
+    },
+    {
+      "content": "",
+      "title": "-Proficiency in HTML, CSS, JavaScript"
+    },
+    {
+      "content": "",
+      "title": "-Thorough under standing of ReactJS and it score principles"
+    },
+    {
+      "content": "",
+      "title": "-Experience with popular ReactJS workflows (such as Redux Saga)"
+    },
+    {
+      "content": "",
+      "title": "-Experience with data structure libraries"
+    },
+    {
+      "content": "",
+      "title": "-Familiarity with RESTful APIs"
+    },
+    {
+      "content": "",
+      "title": "-NodeJS (Express)"
+    },
+    {
+      "content": "",
+      "title": "-RESTful API."
+    },
+    {
+      "content": "",
+      "title": "-MySQL."
+    },
+    {
+      "content": "",
+      "title": "-TypeScript."
+    },
+    {
+      "content": "",
+      "title": "-MongoDB."
+    },
+    {
+      "content": "",
+      "title": "-Tailwinds"
+    },
+    {
+      "content": "",
+      "title": "-Bootstrap, Git"
+    }
+  ]
+}
